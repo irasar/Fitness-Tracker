@@ -23,7 +23,7 @@ To install use the following command:<br>
 
 ![alt text](public/images/ss2.png)
 
-![alt text](public/images/ss1.png)
+![alt text](public/images/ss4.png)
 
 ## Usage 
 
