@@ -1,3 +1,4 @@
+//determines how to build your models
 let mongoose = require("mongoose");
 let db = require("../models");
 
