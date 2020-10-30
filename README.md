@@ -18,11 +18,11 @@ Fitness-tracker is an application where you are able to view and add workouts. T
 
 To install use the following command:<br>
 <pre><code>npm i</pre></code>
-*To add a workout:
+-To add a workout:
 ![alt text](public/images/ss3.png)
-*Last workout:
+-Last workout:
 ![alt text](public/images/ss2.png)
-*Stats charted:
+-Stats charted:
 ![alt text](public/images/ss4.png)
 
 ## Usage 
